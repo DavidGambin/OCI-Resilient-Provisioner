@@ -1,0 +1,42 @@
+# ─────────────────────────────────────────────────────────────
+#  OCI Resilient Provisioner — .gitignore
+#  Protege credenciales y ficheros sensibles
+# ─────────────────────────────────────────────────────────────
+
+# Variables de entorno (contiene tokens y rutas privadas)
+.env
+
+# Configuración OCI con credenciales reales
+api.txt
+instances.txt
+
+# Claves criptográficas
+*.pem
+*.key
+*.key.pub
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
