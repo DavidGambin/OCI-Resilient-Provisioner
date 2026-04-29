@@ -1,4 +1,0 @@
-availabilityDomain: "<REGION>-AD-1"
-compartmentId: "ocid1.tenancy.oc1..****************************"
-subnetId: "ocid1.subnet.oc1.<region>.****************************"
-imageId: "ocid1.image.oc1.<region>.****************************"
