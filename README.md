@@ -95,7 +95,7 @@ En entornos de alta demanda (como el *Free Tier* de Oracle), las peticiones de c
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/oci-resilient-provisioner.git
+git clone https://github.com/DavidGambin/oci-resilient-provisioner
 cd oci-resilient-provisioner
 ```
 
